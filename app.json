@@ -19,7 +19,9 @@
       "package": "com.institution.alumninetwork",
       "adaptiveIcon": {
         "backgroundColor": "#0F172A"
-      }
+      },
+      "enableProguardInReleaseBuilds": true,
+      "enableShrinkResourcesInReleaseBuilds": true
     },
     "web": {
       "bundler": "metro"
