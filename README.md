@@ -1,4 +1,4 @@
-﻿# 🎓 Alumni Network Portal
+# 🎓 Alumni Network Portal
 
 <div align="center">
 
@@ -8,6 +8,10 @@
 ![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android%20%7C%20Web-lightgrey?style=for-the-badge)
 
 A full-featured, cross-platform mobile application that connects university **alumni**, **students**, and **staff** — fostering lifelong professional relationships through mentorship, networking, events, and career opportunities.
+
+<p align="center">
+  🌐 <b>বাংলা ডকুমেন্টেশন:</b> প্রজেক্টের সম্পূর্ণ আর্কিটেকচার, ফিচার ও ডিজাইন গাইডের জন্য <a href="./README_BN.md"><b>README_BN.md</b></a> দেখুন।
+</p>
 
 </div>
 
